@@ -8,8 +8,8 @@
     </include>
 
     <include>
-      <uri>model://fetchit_arena</uri>
-      <name>fetchit_arena1</name>
+      <uri>model://nec0115a_arena</uri>
+      <name>nec0115a_arena</name>
       <pose>0 0 0 0 0 0</pose>
     </include>
 
